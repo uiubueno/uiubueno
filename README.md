@@ -37,3 +37,8 @@
 ### ♥️  Apaixonado por tecnologia, desafios e inovação. Decidi embarcar em uma emocionante transição de carreira de volta para minha paixão original: a programação. 👾
 
 😄 Estou aberto a contribuições e espero trocar experiências e aprender com as mesmas. Sintam-se à vontade para explorar meus projetos e sugerir melhorias, correções ou até mesmo contribuir diretamente. Juntos, podemos criar algo incrível! 😊
+
+## 💻👷 Minhas contribuições 🚧🚦
+
+![snake gif](https://github.com/uiubueno/uiubueno/blob/output/github-snake-dark.svg)
+
