@@ -34,7 +34,7 @@
 </div>
 
 
-### ♥️  Apaixonado por tecnologia, desafios e inovação. Decidi embarcar em uma emocionante transição de carreira de volta para minha paixão original: a programação. 👾
+### ♥️  Apaixonado por tecnologia, desafios e inovação, estou trilhando minha jornada de volta à minha verdadeira paixão: a programação. Atualmente, curso Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br) e sigo expandindo meus conhecimentos para me tornar um desenvolvedor de alto nível. 🚀 Busco constantemente aprender, evoluir e transformar ideias em soluções inteligentes. 👾
 
 😄 Estou aberto a contribuições e espero trocar experiências e aprender com as mesmas. Sintam-se à vontade para explorar meus projetos e sugerir melhorias, correções ou até mesmo contribuir diretamente. Juntos, podemos criar algo incrível! 😊
 
